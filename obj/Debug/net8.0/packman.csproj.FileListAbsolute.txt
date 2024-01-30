@@ -1,0 +1,14 @@
+/Users/aleksandrriabov/CSharpProjects/packman/packman/bin/Debug/net8.0/packman
+/Users/aleksandrriabov/CSharpProjects/packman/packman/bin/Debug/net8.0/packman.deps.json
+/Users/aleksandrriabov/CSharpProjects/packman/packman/bin/Debug/net8.0/packman.runtimeconfig.json
+/Users/aleksandrriabov/CSharpProjects/packman/packman/bin/Debug/net8.0/packman.dll
+/Users/aleksandrriabov/CSharpProjects/packman/packman/bin/Debug/net8.0/packman.pdb
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.AssemblyInfoInputs.cache
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.AssemblyInfo.cs
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.csproj.CoreCompileInputs.cache
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.dll
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/refint/packman.dll
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.pdb
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/packman.genruntimeconfig.cache
+/Users/aleksandrriabov/CSharpProjects/packman/packman/obj/Debug/net8.0/ref/packman.dll
